@@ -10,3 +10,6 @@ File explanations (structure):
 -main is the loop that keeps the game running as long as the user keeps the window open.
 
 To run this game, all one has to do is have all included files and images and then run the main in their IDE of choice and the minesweeper window will pop up and be ready for play.
+
+There are also included test boards used to test and check functionality of the program during development.
+There is also an additional feature in this minesweeper game, the eye button, which when clicked allows the user to see all of the mines, which significantly aided during development and can allow the user to test and see the full functionality of the program with ease.
